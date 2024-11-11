@@ -27,7 +27,7 @@ export default function Footer() {
           target="_blank"
           className="flex items-center gap-3 transition duration-150 ease-in-out active:scale-95"
         >
-          <span className="font-bold">cColds</span>
+          <span className="font-bold">Shopping Cart</span>
 
           <AiFillGithub className="text-2xl" />
         </a>
