@@ -23,7 +23,7 @@ export default function Footer() {
       </div>
       <div className="flex">
         <a
-          href="https://github.com/ccolds"
+          href="https://github.com/KonKdev"
           target="_blank"
           className="flex items-center gap-3 transition duration-150 ease-in-out active:scale-95"
         >
