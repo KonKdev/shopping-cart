@@ -13,5 +13,5 @@ export default defineConfig({
     css: true,
     setupFiles: ["./setupVitest.ts"],
   },
-  base: "https://cColds.github.io/shopping-cart",
+  base: "/shopping-cart/",  
 });
