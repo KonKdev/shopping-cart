@@ -22,16 +22,17 @@ export default function Footer() {
         </p>
       </div>
       <div className="flex">
-        <a
-          href="https://github.com/KonKdev"
-          target="_blank"
-          className="flex items-center gap-3 transition duration-150 ease-in-out active:scale-95"
-        >
-          <span className="font-bold">Shopping Cart</span>
+            <a
+              href="https://github.com/KonKdev/shopping-cart"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 transition duration-150 ease-in-out active:scale-95"
+            >
+              <span className="font-bold">Shopping Cart</span>
+              <AiFillGithub className="text-2xl" />
+            </a>
+       </div>
 
-          <AiFillGithub className="text-2xl" />
-        </a>
-      </div>
     </footer>
   );
 }
